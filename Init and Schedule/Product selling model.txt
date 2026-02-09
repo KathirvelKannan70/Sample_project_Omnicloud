@@ -1,0 +1,37 @@
+SECURITY
+
+organization level
+field level
+record level
+
+
+product selling model
+
+
+Evergreen - autopay type
+term based - based on quarter/half/full 
+one time - only one 
+
+Decision table (refresh)- collection of total data to reflect in the salesforce
+
+add one time(price book) to the product
+price book entry (list price) in related tabs
+price book entries v2
+add price to the product
+before quote we have to build the product
+
+setup -> product discovery setting -> Create full index -> Rebuild index
+create new quote 
+view in all products (add)
+
+
+product discovery procedure
+pricing recipe
+pricing procedure
+Autolaunched flow
+
+
+Product configuration Rules
+
+Revenue setting
+setup configuration rules with Bussiness Rules Engine
